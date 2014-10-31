@@ -1,0 +1,2 @@
+This project is a sample for posting on a Facebook public page.
+Users just need to change API keys in manifest and strings.
