@@ -41,7 +41,7 @@
 
         <provider
             android:name="com.facebook.NativeAppCallContentProvider"
-            android:authorities="com.facebook.app.NativeAppCallContentProvider1523294194584234"
+            android:authorities="com.facebook.app.NativeAppCallContentProviderEnterFacebookAppIdHere"
             android:exported="true" />
 
         <receiver android:name="selfie.time.HelloFacebookBroadcastReceiver" >
